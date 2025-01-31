@@ -1,0 +1,19 @@
+body{
+	background-color: #000957;
+	padding-top: 5%;
+	color: white;
+}
+
+.container{
+	 background-color: #344CB7;
+     border-radius: 20px; /* This rounds the corners */
+     text-align: center;
+}
+
+img{
+	width: 400px;
+}
+
+button{
+    color: red;
+}
